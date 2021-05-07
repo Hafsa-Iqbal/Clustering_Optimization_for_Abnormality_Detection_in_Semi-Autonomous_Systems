@@ -1,5 +1,7 @@
 # Clustering Optimization for Abnormality Detection inSemi-Autonomous Systems
 
+![GitHubfig](https://user-images.githubusercontent.com/56120865/117480136-7edc7e00-af61-11eb-8e03-0b3f3ff683c8.JPG)
+
 ### Introduction
 
 This is the code for the optimization of number of clusters in an unsupervised way.
