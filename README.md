@@ -15,8 +15,7 @@ The use of machine learning techniques is fundamental for developing autonomous 
 
 You can use these codes with MATLAB 2018.
 
-Data used for this work is not published yet so you an use your own data.
-
+Note: Data used for this work is not published yet.
 
 ### Citation
 
