@@ -21,7 +21,8 @@ Note: Data used for this work is not published yet.
 
 If you find our work useful in your research, please cite our work:
 
-```@inproceedings{iqbal2019clustering,
+```
+@inproceedings{iqbal2019clustering,
   title={Clustering optimization for abnormality detection in semi-autonomous systems},
   author={Iqbal, Hafsa and Campo, Damian and Baydoun, Mohamad and Marcenaro, Lucio and Gomez, David Martin and Regazzoni, Carlo},
   booktitle={1st International Workshop on Multimodal Understanding and Learning for Embodied Applications},
